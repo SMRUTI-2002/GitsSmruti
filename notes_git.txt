@@ -4,5 +4,3 @@ staging area
 local repo
 remote repo
 stash
-hello
-world
